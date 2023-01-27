@@ -46,6 +46,8 @@ public class Calculator {
     private double val6 = 14;
     private double val7 = 14;
     private double val8 = 14;
+    private double val111  = 32323232;
+    private double val4232 = 2424343;
 
     public Calculator() {
         window = new JFrame("Calculator");
