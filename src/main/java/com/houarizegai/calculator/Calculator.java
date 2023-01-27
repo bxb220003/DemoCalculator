@@ -33,6 +33,16 @@ public class Calculator {
 
     private double val1 = 11;
 
+    private double val2 = 12;
+
+    private double val3 = 13;
+
+    private double val4 = 14;
+    private double val5 = 14;
+    private double val6 = 14;
+    private double val7 = 14;
+    private double val8 = 14;
+
     public Calculator() {
         window = new JFrame("Calculator");
         window.setSize(WINDOW_WIDTH, WINDOW_HEIGHT);
