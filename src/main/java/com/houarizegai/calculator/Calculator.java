@@ -31,8 +31,12 @@ public class Calculator {
     private boolean addWrite = true; // Connect numbers in display
     private double val = 0; // Save the value typed for calculation
 
-    private double val1 = 11;
+    private double val1 = 12345678;
+    private double val7 = 123456;
 
+    private double val11 = 12348;
+
+    private double val10 = 12345678;
     public Calculator() {
         window = new JFrame("Calculator");
         window.setSize(WINDOW_WIDTH, WINDOW_HEIGHT);
