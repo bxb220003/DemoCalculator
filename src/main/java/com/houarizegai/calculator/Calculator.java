@@ -47,6 +47,8 @@ public class Calculator {
 
     private double val8 = 14;
 
+    private double val9 = 28322;
+
     //End of declaration
 
     public Calculator() {
