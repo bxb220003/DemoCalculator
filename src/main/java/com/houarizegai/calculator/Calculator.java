@@ -31,7 +31,11 @@ public class Calculator {
     private boolean addWrite = true; // Connect numbers in display
     private double val = 0; // Save the value typed for calculation
 
+
     private double val1 = 123;
+
+    private double val12 = 1234567890;
+
 
     private double val2 = 12;
 
