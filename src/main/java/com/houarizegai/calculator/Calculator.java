@@ -32,7 +32,12 @@ public class Calculator {
     private double val = 0; // Save the value typed for calculation
 
     private double val1 = 1234567890;
+    private double val1 = 12345678;
+    private double val7 = 123456;
 
+    private double val11 = 12348;
+
+    private double val10 = 12345678;
     private double val2 = 12;
 
     private double val3 = 13;
